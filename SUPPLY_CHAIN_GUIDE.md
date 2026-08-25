@@ -1,6 +1,6 @@
 # 📦 Supply Chain & Delivery Process - Complete Guide
 
-## Easy Explanation for Everyone (Like a 10-Year-Old!)
+## Easy Explanation for Everyone
 
 This document explains how packages move from a factory to your home. Let's break it down step by step!
 
